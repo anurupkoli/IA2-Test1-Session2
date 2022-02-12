@@ -15,9 +15,7 @@ int scalene[3]={1,2,3};
   if(a==b && a==c)
     return scalene[2];
   
-  else if(a==b && b==c && c==a)
-    return scalene[1];
-
+  
   else
   return scalene[0];
   
