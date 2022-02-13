@@ -9,7 +9,7 @@ int input_side(){
 }
 
 int check_scalene(int a, int b, int c){
-int scalene[3]={1,2,3};
+int scalene[2]={1,2};
 
 
   if(a==b && a==c)
